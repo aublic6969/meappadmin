@@ -4,7 +4,7 @@
   "image": "https://cdn-icons-png.flaticon.com/512/564/564619.png",
 
   "announcement": "⚠️ The app may respond slowly at times. Please tap once and wait for it to load. Multiple taps can overload the server and cause delays.",
-  "daily_message": "Hello..This is test msg!",
+  "daily_message": "💡 Tip: Tap once and wait for videos to load smoothly.",
 
   "banned_users": ["12345", "99999"]
 }

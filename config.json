@@ -1,0 +1,9 @@
+{
+  "maintenance": true,
+  "message": "",
+  "image": "https://cdn-icons-png.flaticon.com/512/564/564619.png",
+
+  "announcement": "..",
+  "daily_message": "Hello..This is test msg!",
+
+  "banned_users": ["12345", "99999"]

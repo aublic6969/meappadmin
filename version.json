@@ -1,0 +1,6 @@
+{
+  "latest_version": 2,
+  "force_update": false,
+  "update_message": "🚀 New update available! Please update to continue.",
+  "apk_url": "https://your-server.com/app.apk"
+}

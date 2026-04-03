@@ -3,7 +3,7 @@
   "message": "Server is under maintenance. Please try again later.",
   "image": "https://cdn-icons-png.flaticon.com/512/564/564619.png",
 
-  "announcement": ""announcement": "⚠️ The app may respond slowly at times. Please tap once and wait for it to load. Multiple taps can overload the server and cause delays."",
+  "announcement": "⚠️ The app may respond slowly at times. Please tap once and wait for it to load. Multiple taps can overload the server and cause delays.",
   "daily_message": "Hello..This is test msg!",
 
   "banned_users": ["12345", "99999"]
